@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.42.7",
+    "bcrypt-ts": "^5.0.2",
+    "hono": "^4.2.9"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
