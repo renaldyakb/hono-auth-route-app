@@ -1,4 +1,4 @@
-# JWT Auth by [@renaldyakbar](https://github.com/renaldyakb) using [Hono App](http://hono.dev/ "Hono.dev")
+# JWT Auth by [@renaldyakb](https://github.com/renaldyakb) using [Hono App](http://hono.dev/ "Hono.dev")
 ### Introduction
 
 This my a few examples project to route some endpoint using my own middleware using [```#verfify```](https://hono.dev/helpers/jwt#verify) JWT from cookie store, I'm using [Bun runtime](https://bun.sh/) & [Supabase Database](https://supabase.com/)
